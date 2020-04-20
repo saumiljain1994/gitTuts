@@ -1,0 +1,19 @@
+{
+  "name": "gittuts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saumiljain1994/gitTuts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saumiljain1994/gitTuts/issues"
+  },
+  "homepage": "https://github.com/saumiljain1994/gitTuts#readme"
+}
